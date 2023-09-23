@@ -1,7 +1,8 @@
 # F2_Contest2_Student-Portal
 
-Preview:
 Student Portal Project using HTML , CSS and JAVASCRIPT(Search Functionality & Sort Functionality)
+
+Preview:
 
 Image 1:
 
