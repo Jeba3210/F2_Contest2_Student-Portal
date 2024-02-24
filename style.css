@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&family=Inclusive+Sans:ital@1&family=Inter&family=Kaushan+Script&family=Mulish&family=Nunito&family=Playfair+Display&family=Playfair:opsz@5..1200&family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&family=Inclusive+Sans:ital@1&family=Inter&family=Kaushan+Script&family=Mulish&family=Nunito&family=Playfair+Display&family=Playfair:opsz@5..1200&family=Poppins&family=Roboto&display=swap');
 *{
     margin: 0px;
     padding: 0px;
@@ -6,7 +6,7 @@
 }
 
 header {
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgb(6, 46, 126);
     color: #fff;
     text-align: left;
     /* padding: 20px; */
@@ -24,7 +24,7 @@ header {
     color: white;
     padding: 25px;
     padding-left: 50px;
-    font-size: 28px;
+    font-size: 30px;
 }
 
 main {
@@ -50,7 +50,7 @@ main {
     height: 65px;
     flex-grow: 1;
     /* padding: 15px; */
-    font-size: 18px;
+    font-size: 1.3rem;
     border: 2px solid rgba(0, 0, 0, 1);
     /* border-radius: 5px; */
     margin-right: 10px;
@@ -62,7 +62,7 @@ main {
     height: 66px;
     /* padding: 15px 30px; */
     font-size: 22px;
-    background-color: rgba(0, 0, 0, 1);
+    background-color:  rgb(6, 46, 126);
     color: #fff;
     border: none;
     border-radius: 0;
@@ -92,7 +92,7 @@ main {
     /* padding: 20px 0; */
     margin: 10px;
     font-size: 20px;
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgb(6, 46, 126);
     color: #fff;
     border: none;
     border-radius: 0;
@@ -111,8 +111,9 @@ table {
 }
 
 th {
+    font-size: 1.4rem;
     background-color: rgba(217, 217, 217, 1); /* Background color for table header */
-    color: #000; /* Text color for table header */
+    color:  rgb(6, 46, 126); /* Text color for table header */
 }
 
 th, td {
@@ -120,4 +121,7 @@ th, td {
     text-align: left;
     border-bottom: 1px solid rgba(0, 0, 0, 1);
     border-right: 1px solid rgba(0, 0, 0, 1);
+}
+td{
+    font-size: 1.2rem;
 }
