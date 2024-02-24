@@ -25,7 +25,8 @@ Sort Z->A:
 
 
 Sort by Marks:
-![Screenshot 2024-02-24 231746](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/6d09e20b-f549-477d-87e0-fa0707998ed3)
+![Screenshot 2023-03-23 012323](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/34ed6dce-3151-4a47-bb77-36569395b8cb)
+
 
 
 
