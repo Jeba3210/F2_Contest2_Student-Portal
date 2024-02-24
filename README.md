@@ -1,3 +1,4 @@
+
 # F2_Contest2_Student-Portal
 
 Student Portal Project using HTML , CSS and JAVASCRIPT(Search Functionality & Sort Functionality)
@@ -25,7 +26,8 @@ Sort Z->A:
 
 
 Sort by Marks:
-![Screenshot 2023-03-23 012323](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/34ed6dce-3151-4a47-bb77-36569395b8cb)
+![Screenshot 2024-02-24 232557](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/3d28e221-f3f7-44e6-aed7-7189aeddccd6)
+
 
 
 
@@ -42,7 +44,8 @@ Sort by Class:
 
 
 Sort by Gender:
-![image](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/45738aa8-c717-4fbe-99ca-5d3e03068d19)
+![Screenshot 2024-02-24 232121](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/cf60ecd5-2b0b-451e-a0a4-4905c03a2c57)
+
 
 
 
