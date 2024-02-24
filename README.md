@@ -6,16 +6,19 @@ Preview:
 
 Image 1:
 
-![image](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/90da6ab9-57a8-4e48-a2f1-6561114fe15b)
+![Screenshot 2024-02-24 220454](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/baccf785-9230-4c07-98b2-f3eddf066ba7)
+
 
 Search Functionality:
 
-![image](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/a2610dc8-4106-4cab-a539-2276c32887f9)
+![Screenshot 2024-02-24 220720](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/c47ce476-6602-4051-bdcb-66a7e1ffe640)
+
 
 Sort Functionality:
 
 Sort A->Z:
-![image](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/caed97fc-5aea-4766-9de2-802308e79310)
+![Screenshot 2024-02-24 220612](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/90abdd75-5758-490f-b992-78f4dfd7712d)
+
 
 Sort Z->A:
 ![image](https://github.com/Jeba3210/F2_Contest2_Student-Portal/assets/137270674/e89fc908-7b35-4446-9980-de8ccea590ce)
