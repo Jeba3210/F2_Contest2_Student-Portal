@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <td>${student.gender}</td>
                 <td>${student.class}</td>
                 <td>${student.marks}</td>
-                <td>${student.passing ? 'Passing' : 'Failed'}</td>
+                <td>${student.passing ? 'Passed' : 'Failed'}</td>
                 <td>${student.email}</td>
             `;
             tableBody.appendChild(row);
